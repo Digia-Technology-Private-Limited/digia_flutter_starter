@@ -1,16 +1,23 @@
-# digia_flutter_starter
+# Digia Flutter Starter 🚀
 
-A new Flutter project.
+A sample Flutter app built using the [Digia SDK](https://digia.tech), showcasing how to build, update, and release native mobile app flows with **Server-Driven UI** — without resubmitting to the App Store or Play Store.
 
-## Getting Started
+## 🔧 What’s Inside
 
-This project is a starting point for a Flutter application.
+- 🧱 **Digia SDK Integration** – Connect your Flutter app to Digia’s server-driven infrastructure.
+- ⚡ **Instant Flow Updates** – Push UI and logic changes to production without user downloads.
+- 🎯 **Version & Release Management** – Preview, test, and release features like Git branches.
+- 📊 **Analytics Ready** – Built-in support for integrating Clevertap, Mixpanel, and more.
 
-A few resources to get you started if this is your first Flutter project:
+## 🏁 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Clone the Repo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### 1. Install the Digia SDK
+
+Add the Digia SDK to your Flutter project:
+
+```bash
+flutter pub add digia_ui
+

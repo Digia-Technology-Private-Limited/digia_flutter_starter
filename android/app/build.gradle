@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.digia.flutterstarter.digia_flutter_starter"
+    namespace "com.digia.flutterstarter"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
