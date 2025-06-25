@@ -11,7 +11,7 @@ This project serves as a comprehensive starter application for integrating the D
 ### Dependencies
 
 * **Flutter SDK**: Latest stable version recommended.
-* **Digia SDK**: `digia_ui: ^0.3.21` (or the latest version available on pub.dev).
+* **Digia SDK**: `digia_ui: ^0.4.0` (or the latest version available on pub.dev).
 * **Android SDK**: Platform 34 and Build Tools 34.0.0 (required for Android development).
 
 ### Installing
@@ -29,7 +29,7 @@ This project serves as a comprehensive starter application for integrating the D
     Alternatively, manually add it to your `pubspec.yaml` file:
     ```yaml
     dependencies:
-      digia_ui: ^0.3.21
+      digia_ui: ^0.4.0
     ```
 3.  **Install project dependencies:**
     ```bash
