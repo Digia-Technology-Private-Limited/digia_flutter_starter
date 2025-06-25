@@ -265,12 +265,11 @@ packages:
   digia_ui:
     dependency: "direct main"
     description:
-      path: "."
-      ref: "feature/messageBus"
-      resolved-ref: "5af5578709f10c455568c22e2e0f829100846ed9"
-      url: "git@github.com:Digia-Technology-Private-Limited/digia_ui.git"
-    source: git
-    version: "0.3.19"
+      name: digia_ui
+      sha256: "4d5a2801c25a24ce726483ca223b68e0228abd51ec33797fdb275f033f4f0b50"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.0"
   dio:
     dependency: transitive
     description:

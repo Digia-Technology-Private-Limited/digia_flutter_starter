@@ -1,5 +1,6 @@
 import 'package:digia_ui/digia_ui.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 Future<void> main() async {
 
@@ -50,14 +51,14 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home:  DUIFactory().createPage(
+      home:  //TeamSelectorPage()
+      DUIFactory().createPage(
         'homepage',
         {},
-      ),
+      )
+      ,
     ))
 
     ;
   }
 }
-
-

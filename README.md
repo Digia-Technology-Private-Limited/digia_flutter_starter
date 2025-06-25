@@ -130,7 +130,7 @@ For further assistance, you can contact `hello@digia.tech`.
 
 ## Authors
 
-This project is primarily developed and maintained by **Digia Technology Private Limited**.
+This project is primarily developed and maintained by **Tinkerbox Technology Private Limited**.
 For specific individual contributors, please refer to the Git commit history.
 
 ## Version History
@@ -141,7 +141,7 @@ For specific individual contributors, please refer to the Git commit history.
 
 ## License
 
-This project is copyrighted by Digia Technology Private Limited. All rights reserved.
+This project is copyrighted by Tinkerbox Technology Private Limited. All rights reserved.
 More detailed license information will be available soon.
 
 ## Acknowledgments
